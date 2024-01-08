@@ -4,6 +4,6 @@ document.write(papapure);
 
 papapure = 'OMG'
 
-console.log('Mi cambio para produccion pa');
+// console.log('Mi cambio para produccion pa'); modificaod por que no es necesario
 
 document.write('ultimo cambio del dia 3');
