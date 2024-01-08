@@ -1,4 +1,4 @@
-let papapure = "Bueno, yo sigo en lo mio"
+let papapure = "cambie de nombre jajjajaja"
 
 document.write(papapure);
 
